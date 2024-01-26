@@ -1,5 +1,5 @@
 # Weather App
-A weather app that pulls from the [OpenWeatherMap API](https://openweathermap.org/) to allow users to search for and view the forecast in various cities.
+An Android based Weather App using Kotlin that pulls from the [OpenWeatherMap API](https://openweathermap.org/) to allow users to search for and view the forecast in various cities.
 
 ### App Walkthough GIF
 
